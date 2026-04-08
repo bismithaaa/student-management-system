@@ -15,3 +15,6 @@ This is a simple Python CLI project.
 ## How to Run
 1. Run main.py
 2. Follow menu instructions
+
+## Author
+Bismitha F
